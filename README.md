@@ -7,6 +7,11 @@ End-to-end tests for Nimbus-Nebula
 - `npm install`
 - `npx playwright install` : install Playwright browser engines
 
+## Prettier:
+
+- Run prettier before pushing
+- `npx prettier --write .`
+
 ## Run Test:
 
 - `npx playwright test`: run all test
