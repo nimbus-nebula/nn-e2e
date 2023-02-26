@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/nimbus-nebula/nn-e2e#readme",
   "devDependencies": {
-    "@playwright/test": "^1.31.1"
+    "@playwright/test": "^1.31.1",
+    "prettier": "2.8.4"
   }
 }
